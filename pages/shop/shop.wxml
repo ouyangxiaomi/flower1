@@ -1,0 +1,7 @@
+<view class='shop'>
+  <view>
+    <image src='../../images/shop.jpg'></image>
+  </view>
+  <view>购物车空空如也</view>
+    <view>去挑几件中意的商品吧</view>
+</view>

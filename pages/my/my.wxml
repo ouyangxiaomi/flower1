@@ -1,0 +1,68 @@
+<view class='header'>
+  <view class='header-text'>
+    <view class='one'>
+      <image src='../../images/my-img1.jpg'></image>
+      <view>待支付</view>
+    </view>
+    <view class='one'>
+      <image src='../../images/my-img2.jpg'></image>
+      <view>待收货</view>
+    </view>
+    <view class='one'>
+      <view class='tou'>
+
+
+      </view>
+    </view>
+    <view class='one'>
+      <image src='../../images/my-img3.jpg'></image>
+      <view>已完成</view>
+    </view>
+    <view class='one'>
+      <image src='../../images/my-img4.jpg'></image>
+      <view>全部订单</view>
+    </view>
+  </view>
+</view>
+<view class='main'>
+  <view class='first'>
+    <image class='first-img' src='../../images/my1.jpg'></image>
+    我的拼团
+    <image class='jian' src='../../images/jiantou.jpg'></image>
+  </view>
+  <view class='first'>
+    <image class='first-img' src='../../images/my2.jpg'></image>
+    我的金库
+    <image class='jian' src='../../images/jiantou.jpg'></image>
+  </view>
+  <view class='first'>
+    <image class='first-img' src='../../images/my3.jpg'></image>
+    我的预约
+    <image class='jian' src='../../images/jiantou.jpg'></image>
+  </view>
+  <view class='first'>
+    <image class='first-img' src='../../images/my4.jpg'></image>
+    我的砍价
+    <image class='jian' src='../../images/jiantou.jpg'></image>
+  </view>
+  <view class='first'>
+    <image class='first-img' src='../../images/my5.jpg'></image>
+    优惠券
+    <image class='jian' src='../../images/jiantou.jpg'></image>
+  </view>
+  <view class='first'>
+    <image class='first-img' src='../../images/my6.jpg'></image>
+    商品收藏
+    <image class='jian' src='../../images/jiantou.jpg'></image>
+  </view>
+  <view class='first'>
+    <image class='first-img' src='../../images/my7.jpg'></image>
+    收货地址
+    <image class='jian' src='../../images/jiantou.jpg'></image>
+  </view>
+  <view class='first'>
+    <image class='first-img' src='../../images/my8.jpg'></image>
+    用户反馈
+    <image class='jian' src='../../images/jiantou.jpg'></image>
+  </view>
+</view>

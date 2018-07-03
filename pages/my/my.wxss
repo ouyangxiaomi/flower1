@@ -1,0 +1,70 @@
+page {
+  background: #f8f8f8;
+}
+
+.header-text {
+  -webkit-box-shadow: 0 10rpx 20rpx #333;
+  box-shadow: 0 0 22rpx rgba(0, 0, 0, 0.2);
+  display: flex;
+  border-top: solid 2rpx #cbcbcb;
+  border-bottom: solid 2rpx #cbcbcb;
+  height: 129rpx;
+  background: #fff;
+  width: 100%;
+  margin-top: 325rpx;
+  justify-content: space-around;
+  position: relative;
+}
+
+.one image {
+  width: 38rpx;
+  height: 36rpx;
+}
+
+.one {
+  margin-top: 26rpx;
+  text-align: center;
+  width: 100rpx;
+  font-size: 25rpx;
+  color: #3c3c3c;
+}
+
+.tou {
+  border-radius: 50%;
+  width: 148rpx;
+  height: 148rpx;
+  background: rgba(0, 0, 0, 0);
+  -webkit-box-shadow: 0 10rpx 20rpx #333;
+  box-shadow: 0 0 22rpx rgba(0, 0, 0, 0.2);
+  position: absolute;
+  top: -74rpx;
+  left: 300rpx;
+}
+
+.main {
+  margin-top: 35rpx;
+  border-top: solid 1rpx #ebebeb;
+  background: #fff;
+  padding: 0 27rpx;
+}
+
+.first {
+  font-size: 26rpx;
+  height: 96rpx;
+  line-height: 96rpx;
+  border-bottom: solid 1rpx #ebebeb;
+ 
+}
+
+.first-img {
+  vertical-align: middle;
+  width: 35rpx;
+  height: 35rpx;
+  margin-right: 10rpx;
+}
+.jian{
+  float: right;
+  width: 12rpx;
+  height: 20rpx;
+ margin-top: 35rpx;
+}

@@ -1,0 +1,132 @@
+<!--index.wxml-->
+<swiper class='swiper-title' indicator-dots="{{indicatorDots}}" autoplay="{{autoplay}}" interval="{{interval}}" duration="{{duration}}">
+  <block wx:for="{{imgUrls}}">
+    <swiper-item class="aaaa">
+      <image src="{{item}}" class="slide-image" width="100%" height="800" />
+    </swiper-item>
+  </block>
+</swiper>
+<view class='header'>
+  <view class='header-icon'>
+    <image class='header-icon-img' src='../../images/icon-img1.jpg'>
+    </image>
+    <text class='font'>鲜果系列</text>
+  </view>
+  <view class='header-icon'>
+    <image class='header-icon-img' src='../../images/icon-img2.jpg'>
+    </image>
+    <text class='font'>贺寿系列</text>
+  </view>
+  <view class='header-icon'>
+    <image class='header-icon-img' src='../../images/icon-img3.jpg'>
+    </image>
+    <text class='font'>儿童系列</text>
+  </view>
+  <view class='header-icon'>
+    <image class='header-icon-img' src='../../images/icon-img4.jpg'>
+    </image>
+    <text class='font'>其他系列</text>
+  </view>
+</view>
+
+
+<view class='main-bg'>
+  <view class='jingpin'>
+    <image class='jingpin-img' src='../../images/xian.jpg'></image>
+    精品推荐
+    <image class='jingpin-img' src='../../images/xian.jpg'></image>
+  </view>
+  <view class='main'>
+    <view class='cook-box'>
+      <image class='cook-box-logo' src='../../images/logo.jpg'></image>
+      <view class='first'>
+        <view class='cook-box-cookimg-box'>
+          <image class='cook-box-cookimg' src='../../images/cook1.jpg'>
+          </image>
+        </view>
+        <text class='cook-text'>变形金刚</text>
+        <text class='money'>￥168</text>
+      </view>
+    </view>
+    <view class='cook-box'>
+      <image class='cook-box-logo' src='../../images/logo.jpg'></image>
+      <view class='first'>
+        <image class='cook-box-cookimg' src='../../images/cook2.jpg'>
+        </image>
+        <text class='cook-text'>冰雪奇缘</text>
+        <text class='money'>￥148</text>
+      </view>
+    </view>
+  </view>
+  <view class='main'>
+    <view class='cook-box'>
+      <image class='cook-box-logo' src='../../images/logo.jpg'></image>
+      <view class='first'>
+        <image class='cook-box-cookimg3' src='../../images/cook3.jpg'>
+        </image>
+        <text class='cook-text'>哆啦A梦</text>
+        <text class='money'>￥148</text>
+      </view>
+    </view>
+    <view class='cook-box'>
+      <image class='cook-box-logo' src='../../images/logo.jpg'></image>
+      <view class='first'>
+        <image class='cook-box-cookimg4' src='../../images/cook4.jpg'>
+        </image>
+        <text class='cook-text'>玫瑰小镇</text>
+        <text class='money'>￥158</text>
+      </view>
+    </view>
+  </view>
+</view>
+
+
+<view class='main-bg'>
+  <view class='jingpin'>
+    <image class='jingpin-img' src='../../images/xian.jpg'></image>
+    限时抢购
+    <image class='jingpin-img' src='../../images/xian.jpg'></image>
+  </view>
+  <view class='main'>
+    <view class='cook-box'>
+      <image class='cook-box-logo' src='../../images/logo.jpg'></image>
+      <view class='first'>
+        <view class='cook-box-cookimg-box'>
+          <image class='cook-box-cookimg' src='../../images/cook1.jpg'>
+          </image>
+        </view>
+        <text class='cook-text'>变形金刚</text>
+        <text class='money'>￥168</text>
+      </view>
+    </view>
+    <view class='cook-box'>
+      <image class='cook-box-logo' src='../../images/logo.jpg'></image>
+      <view class='first'>
+        <image class='cook-box-cookimg' src='../../images/cook2.jpg'>
+        </image>
+        <text class='cook-text'>冰雪奇缘</text>
+        <text class='money'>￥148</text>
+      </view>
+    </view>
+  </view>
+  <view class='main'>
+    <view class='cook-box1'>
+      <image class='cook-box-logo' src='../../images/logo.jpg'></image>
+      <view class='first'>
+        <image class='cook-box-cookimg3' src='../../images/cook3.jpg'>
+        </image>
+        <text class='cook-text'>哆啦A梦</text>
+        <text class='money'>￥148</text>
+      </view>
+    </view>
+    <view class='cook-box1'>
+      <image class='cook-box-logo' src='../../images/logo.jpg'></image>
+      <view class='first'>
+        <image class='cook-box-cookimg4' src='../../images/cook4.jpg'>
+        </image>
+        <text class='cook-text'>玫瑰小镇</text>
+        <text class='money'>￥158</text>
+      </view>
+    </view>
+  </view>
+</view>

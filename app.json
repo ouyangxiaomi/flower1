@@ -1,0 +1,47 @@
+
+{
+  "pages":[
+    "pages/index/index",
+    "pages/fenlei/fenlei",
+    "pages/shop/shop",
+    "pages/my/my",
+    "pages/logs/logs"
+    
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#ca4650",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle":""
+  },
+  "tabBar": {
+    "backgroundColor":"#fff",
+    "selectedColor":"#F20005",
+    "list": [
+      {
+        "iconPath": "/images/huifoot1.jpg",
+        "selectedIconPath": "/images/foot1.jpg",
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "iconPath": "/images/huifoot2.jpg",
+        "selectedIconPath": "/images/foot2.jpg",
+        "pagePath": "pages/fenlei/fenlei",
+        "text": "分类"
+      },
+      {
+        "iconPath": "/images/huifoot3.jpg",
+        "selectedIconPath": "/images/foot3.jpg",
+        "pagePath": "pages/shop/shop",
+        "text": "购物车"
+      },
+      {
+        "iconPath": "/images/huifoot4.jpg",
+        "selectedIconPath": "/images/foot4.jpg",
+        "pagePath": "pages/my/my",
+        "text": "我的"
+      }
+    ]
+  }
+}

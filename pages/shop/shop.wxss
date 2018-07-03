@@ -1,0 +1,13 @@
+page{
+  background: #F8F8F8;
+}
+.shop image{
+  width: 137rpx;
+  height: 137rpx;
+}
+.shop{
+  text-align: center;
+  margin-top: 340rpx;
+  color: #BBBBBB;
+  font-size: 32rpx;
+}

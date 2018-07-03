@@ -1,0 +1,28 @@
+<view class='fen-header'>
+  <view>
+    <input type='text' class='input' placeholder='搜索商品' style='background:#fff url(../../images/sou.jpg) no-repeat 40% center;background-size:26rpx 26rpx'>
+    </input>
+  </view>
+</view>
+<view class='main'>
+  <view class='main-left'>
+    <view class='main-left-one'>
+      鲜果系列
+    </view>
+    <view class='main-left-two'>
+      贺寿系列
+    </view>
+    <view class='main-left-two'>
+      儿童系列
+    </view>
+    <view class='main-left-two'>
+      其他系列
+    </view>
+  </view>
+  <view class='right'>
+  <view >
+  <image src='../../images/icon-img1.jpg'></image>
+  </view>
+   鲜果系列
+  </view>
+</view>
